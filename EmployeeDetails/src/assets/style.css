@@ -1,0 +1,15 @@
+ .form-group ,.error-msg  {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+ .form-group {
+   padding: 8px;
+ }
+.error-msg{
+  color: red
+}
+.employee-header {
+  color: green;
+  font-size: 20px;
+}
